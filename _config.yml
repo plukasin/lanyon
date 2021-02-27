@@ -2,7 +2,7 @@
 title:               Psieniądze
 tagline:             'Bardzo, bardzo psieniądze'
 description:         'Pierwszy psiestanek na drodze do oświecenia'
-url:                 https://www.psieniadze.pl
+url:                 https://www.xn--psienidze-gdb.pl
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Atos
-  url:               https://www.psieniadze.pl
+  url:               https://www.xn--psienidze-gdb.pl
   email:
 
 # Gems
