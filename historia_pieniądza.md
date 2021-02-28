@@ -7,8 +7,7 @@ title: Historia pieniądza
  Cześć! To wersja w trakcie pisania
 </p>
 
-NBP ma na swojej stronie 30 minutową animowana [historię pieniądza]
-(https://www.nbportal.pl/wiedza/prezentacje/nowe-prezentacje/historia-pieniadza)
+NBP ma na swojej stronie 30 minutową animowana [historię pieniądza](https://www.nbportal.pl/wiedza/prezentacje/nowe-prezentacje/historia-pieniadza)
 
 Opowiada jak:
 * W dawnych czasach ludzie używali barteru (handlu zamiennego).
